@@ -1,2 +1,2 @@
 # Java-Completo
-Curso completo de java
+Roteiro de aulas para ensinar java
